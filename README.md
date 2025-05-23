@@ -15,7 +15,7 @@ Welcome to the GitHub repository for **Sweet Treats Bakery**, a sample website f
 - HTML5
 - CSS3
 - JavaScript
-- (Optional) Bootstrap or Tailwind CSS
+  
 
 ## 📁 Project Structure
 
